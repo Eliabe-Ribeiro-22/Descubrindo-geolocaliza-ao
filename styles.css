@@ -1,0 +1,35 @@
+* { 
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	margin: 100px 25vw;
+	
+	background: url("https://blog.eletrogate.com/wp-content/uploads/2020/08/gps.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+
+	font: normal 20pt Arial;
+	text-align: center;
+	color: darkcyan;
+}
+
+.square{
+	background: white;
+	opacity: 0.8;
+	width: 50vw;
+}
+
+a{
+	color: black;
+	font: normal 20pt Arial;
+	text-decoration: none;
+	text-decoration: overline;
+	font-weight: bold;
+}
+
+a:hover{
+	color: grey;
+}
